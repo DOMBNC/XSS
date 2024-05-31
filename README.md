@@ -1,4 +1,4 @@
-#XSS
+# XSS
 ## What is XSS?
 cross-site scripting (XSS) is a type of security vulnerability that allows an attacker to inject malicious code into a web application. This code can then be executed by users of the application, potentially stealing their data or compromising their accounts.
 #### There are three main types of cross-site scripting (XSS) attacks:
